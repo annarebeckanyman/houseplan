@@ -21,4 +21,4 @@ npm run start
 
 ## Test environment 🌎
 
-Currently deployed on: https://annarebeckanyman.github.io/
+Currently deployed on: http://annarebeckanyman.github.io/houseplan
